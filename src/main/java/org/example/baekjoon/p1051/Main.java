@@ -1,4 +1,4 @@
-package org.example.p1051;
+package org.example.baekjoon.p1051;
 
 import java.io.BufferedReader;
 import java.io.IOException;

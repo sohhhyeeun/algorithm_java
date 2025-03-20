@@ -1,4 +1,4 @@
-package org.example.p2343;
+package org.example.baekjoon.p2343;
 
 import java.io.BufferedReader;
 import java.io.IOException;

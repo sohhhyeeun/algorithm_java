@@ -1,4 +1,4 @@
-package org.example.p15686;
+package org.example.baekjoon.p15686;
 
 import java.io.BufferedReader;
 import java.io.IOException;
